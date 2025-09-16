@@ -15,7 +15,7 @@ I cleaned the data by:
 - Dropping the **final Powerball number** and the **multiplier** (since the focus is only on the 5 main numbers).
 - Converting the data to a simplified CSV file:  
 
-- For analysis, only the `"Winning Numbers"` column was used.
+- For analysis, only the "Winning Numbers" column was used.
 
 ## Learning Resources
 This project was inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=zKDmzKaAQro&t=193s), which shows how to read CSV files in Java using BufferedReader.
