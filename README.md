@@ -18,11 +18,11 @@ I cleaned the data by:
 - For analysis, only the `"Winning Numbers"` column was used.
 
 ## Learning Resources
-This project was inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=zKDmzKaAQro&t=193s), which shows how to read CSV files in Java using `BufferedReader`.
+This project was inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=zKDmzKaAQro&t=193s), which shows how to read CSV files in Java using BufferedReader.
 
 ## How It Works
-1. Reads the CSV file using `BufferedReader`.
-2. Splits the `"Winning Numbers"` column into **five separate picks**.
+1. Reads the CSV file using BufferedReader.
+2. Splits the "Winning Numbers" column into **five separate picks**.
 3. Counts how frequently each number appears **by position**:
  - Pick 1
  - Pick 2
