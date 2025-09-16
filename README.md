@@ -34,8 +34,8 @@ This project was inspired by [this YouTube tutorial](https://www.youtube.com/wat
 
 
 ## Example Output
-Top 3 numbers for Pick 1:
-Number 1 → 139 times
-Number 2 → 124 times
-Number 3 → 120 times
+Top 3 numbers for Pick 1:  
+Number 1 → 139 times  
+Number 2 → 124 times  
+Number 3 → 120 times  
 
